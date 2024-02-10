@@ -1,6 +1,6 @@
 import type { ColorValue } from 'react-native';
 
-export type ColorsVariants = {
+export type ColorVariants = {
   Black: ColorValue;
   White: ColorValue;
 
