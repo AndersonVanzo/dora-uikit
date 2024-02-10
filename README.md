@@ -1,4 +1,4 @@
-# dora-uikit
+# Dora UI Kit
 
 A UI Kit for React Native
 
@@ -6,16 +6,6 @@ A UI Kit for React Native
 
 ```sh
 npm install dora-uikit
-```
-
-## Usage
-
-```js
-import { multiply } from 'dora-uikit';
-
-// ...
-
-const result = await multiply(3, 7);
 ```
 
 ## Contributing
