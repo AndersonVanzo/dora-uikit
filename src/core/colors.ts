@@ -1,4 +1,6 @@
-export const Colors = {
+import type { ColorVariants } from '../types/colors';
+
+export const Colors: ColorVariants = {
   Black: '#27272B',
   White: '#FAFAFA',
 
