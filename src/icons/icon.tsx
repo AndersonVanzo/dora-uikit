@@ -2,11 +2,11 @@ import React from 'react';
 import type { IconType } from '../types/icon';
 import type { ColorValue } from 'react-native';
 import { getIconFilePath } from './utils/getIconFilePath';
-import { SvgUri } from 'react-native-svg';
+import { type NumberProp, SvgUri } from 'react-native-svg';
 
 export type IconProps = {
   color: ColorValue;
-  size: number;
+  size: NumberProp;
   type: IconType;
 };
 
